@@ -1,5 +1,6 @@
+require ('./helpers.js')
 const sinon = require('sinon');
-
+ 
 describe("index.js", () => {
   let input;
 
